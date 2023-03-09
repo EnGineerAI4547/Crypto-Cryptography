@@ -12,3 +12,14 @@ This project was a challenging yet rewarding experience, and I believe that the 
 The project is simple to use and will guide the user through each step with clear prompts in the terminal. Multiple explanations were carefully crafted to guide the user, assuming zero knowledge of cryptography. This project is ideal for users who want to learn about key cryptography topics via an interactive menu.
 
 Additionally, users who want to skip the learning process and go directly to encrypting or decrypting can do so by clicking the appropriate menu response on the terminal. Overall, this project aims to be both accessible and informative for users of all levels of expertise in cryptography.
+
+
+## `readfile` function
+
+This function reads data from a file and returns it as plaintext or ciphertext, depending on the selected mode.
+
+**Warning:** The double DES and triple DES functionality is still a work in progress. We apologize for any inconvenience this may cause.
+
+For single DES, everything is working great! However, if users elect to select their private keys themselves instead of having them generated automatically, they will need to remember their keys. 
+
+If users elect to have the private key generated, they must copy it from the terminal when they go to decrypt the ciphertext. Similarly, they will have to write down or copy the ciphertext/plaintext from the terminal depending on which functionality they wish to do because it will be necessary to reverse the process. 
