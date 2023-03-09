@@ -23,3 +23,12 @@ This function reads data from a file and returns it as plaintext or ciphertext, 
 For single DES, everything is working great! However, if users elect to select their private keys themselves instead of having them generated automatically, they will need to remember their keys. 
 
 If users elect to have the private key generated, they must copy it from the terminal when they go to decrypt the ciphertext. Similarly, they will have to write down or copy the ciphertext/plaintext from the terminal depending on which functionality they wish to do because it will be necessary to reverse the process. 
+
+**Warning:** We are working on implementing other modes of operation, including:
+
+- CBC (Cipher Block Chaining) mode: This mode uses the output of the previous block to encrypt the current block, making it more secure than ECB mode.
+- CFB (Cipher Feedback) mode: This mode turns a block cipher into a stream cipher by encrypting the previous ciphertext block instead of the plaintext block.
+- OFB (Output Feedback) mode: This mode also turns a block cipher into a stream cipher, but uses the previous keystream block instead of the previous ciphertext block.
+- CTR (Counter) mode: This mode turns a block cipher into a stream cipher by using a counter as the input to the encryption algorithm.
+
+Please note that the functionality for these modes is currently in the works and may not work as expected. We appreciate your patience as we continue to improve our DES implementation.
