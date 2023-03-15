@@ -57,7 +57,7 @@ cryptography-studies/
 
 ## Description of the Studies:
 
-My cryptography studies are aimed at implementing various cryptographic primitives, protocols, and networks. I will produce multiple crypto-based projects as well as attempt to implement popular cryptographic networks and currencies like Bitcoin and Ethereum with goal of eventually creating my own crypto project. I will be using Python early on to get familiar with the subject and implement the preliminary mathematics which undergird cryptography. I will implement asymmetric cryptography, symmetric cryptography, hash functions, key exchanges, digital signatures, and other schemes as well. Eventually, I intend on doing most if not all of the same work in the C programming lanugage.
+My cryptography studies are aimed at implementing various cryptographic primitives, protocols, and networks. I will produce multiple crypto-based projects as well as attempt to implement popular cryptographic currencies like Bitcoin and Ethereum with goal of eventually creating my own crypto project. I will be using Python early on to get familiar with the subject and implement the preliminary mathematics which undergird cryptography. I will implement asymmetric cryptography, symmetric cryptography, hash functions, key exchanges, digital signatures, and other schemes as well. Eventually, I intend on doing most if not all of the same work in the C programming lanugage.
 
 For references, I will be using the following sources:
 
