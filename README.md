@@ -2,7 +2,7 @@
 
 This is a repository for my cryptography studies, specifically for exercises related to implementing various cryptographic primitives, protocols, and networks. 
 
-## Daily Code Commits
+## Code Commits
 
 I will aim to commit code weekly, time permitting, to keep track of my progress in the subject.
 
