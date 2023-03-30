@@ -7,10 +7,9 @@ This subdirectory contains scripts and tools related to symmetric cryptography.
 
 Here are some of the topics and projects covered in this subdirectory:
 
-- AES, Blowfish, and other symmetric encryption algorithms
+- DES, AES, Blowfish, and other symmetric encryption algorithms
 - File encryption and decryption
-- Password management and storage
-- Cryptographic message authentication codes (MACs)
+
 
 ## Tools and Libraries
 
